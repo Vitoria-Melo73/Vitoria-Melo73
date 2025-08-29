@@ -48,13 +48,6 @@
 
 ###  👨‍💻 Sobre mim 
    
-## 🚀 Sempre em busca de novos conhecimentos
-
-## 📚 Sou muito curioso em aprender novas tecnologias
-
-## 🤝 Estou aberto a oportunidades de colaboração em projetos inovadores
-
-
 
 
 
