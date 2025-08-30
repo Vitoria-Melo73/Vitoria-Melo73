@@ -22,7 +22,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vitoria-Melo73&show_icons=true&count_private=true&hide_border=true&title_color=BE27D4&icon_color=BE27D4&text_color=c9d1d9&bg_color=0d1117" alt="Vitoria-Melo73 github stats"/> 
   
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitoria-Nelo73&bg_color=000000&color=BE27D4&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitoria-Melo73&bg_color=000000&color=BE27D4&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
